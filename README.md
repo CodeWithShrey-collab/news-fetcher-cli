@@ -27,7 +27,7 @@ A simple and efficient command-line application that fetches the latest news art
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/CodeWithShrey-collab/News-Fetcher-CLI.git
-cd news-fetcher-python
+cd news-fetcher-cli
 ```
 
 ---
